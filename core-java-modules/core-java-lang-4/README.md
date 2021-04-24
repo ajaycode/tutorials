@@ -2,4 +2,5 @@
 
 This module contains articles about core features in the Java language
 
-- TODO
+- [The Java final Keyword – Impact on Performance](https://www.baeldung.com/java-final-performance)
+- [The package-info.java File](https://www.baeldung.com/java-package-info)
